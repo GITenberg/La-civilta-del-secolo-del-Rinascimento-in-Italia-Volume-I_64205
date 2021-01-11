@@ -1,10 +1,13 @@
 _repo: La-civilta-del-secolo-del-Rinascimento-in-Italia-Volume-I_64205
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Valbusa, Diego
     gutenberg_agent_id: '52795'
     url: http://www.gutenberg.org/2009/agents/52795
+covers:
+- cover_type: archival
+  image_path: 64205-h/images/cover.jpg
 creator:
   author:
     agent_name: Burckhardt, Jacob
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/813
     wikipedia: https://en.wikipedia.org/wiki/Jacob_Burckhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64205#La-civilta-del-secolo-del-Rinascimento-in-Italia-Volume-I
 gutenberg_issued: '2021-01-03'
 gutenberg_type: Text
 identifiers:
