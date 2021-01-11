@@ -1,0 +1,29 @@
+_repo: La-civilta-del-secolo-del-Rinascimento-in-Italia-Volume-I_64205
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Valbusa, Diego
+    gutenberg_agent_id: '52795'
+    url: http://www.gutenberg.org/2009/agents/52795
+creator:
+  author:
+    agent_name: Burckhardt, Jacob
+    alias: Burckhardt, Jakob Christoph
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '813'
+    url: http://www.gutenberg.org/2009/agents/813
+    wikipedia: https://en.wikipedia.org/wiki/Jacob_Burckhardt
+description: ''
+gutenberg_issued: '2021-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64205'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La civiltà del secolo del Rinascimento in Italia, Volume I
+url: http://www.gutenberg.org/ebooks/64205
